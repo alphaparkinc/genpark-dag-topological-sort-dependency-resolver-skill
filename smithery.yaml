@@ -1,0 +1,6 @@
+name: genpark-dag-topological-sort-dependency-resolver-skill
+version: 1.0.0
+description: Directed Acyclic Graph dependency validator, Kahn topological sort algorithm, and cycle detection for agent tasks
+command: python
+args:
+  - mcp_server.py
