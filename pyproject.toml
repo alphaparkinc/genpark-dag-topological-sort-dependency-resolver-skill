@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-dag-topological-sort-dependency-resolver-skill"
+version = "1.0.0"
+description = "Directed Acyclic Graph dependency validator, Kahn topological sort algorithm, and cycle detection for agent tasks"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
